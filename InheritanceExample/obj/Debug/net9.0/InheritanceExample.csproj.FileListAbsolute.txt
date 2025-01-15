@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/CS01/InheritanceExample/bin/Debug/net9.0/InheritanceExample
+/Users/macbook/Desktop/CS01/InheritanceExample/bin/Debug/net9.0/InheritanceExample.deps.json
+/Users/macbook/Desktop/CS01/InheritanceExample/bin/Debug/net9.0/InheritanceExample.runtimeconfig.json
+/Users/macbook/Desktop/CS01/InheritanceExample/bin/Debug/net9.0/InheritanceExample.dll
+/Users/macbook/Desktop/CS01/InheritanceExample/bin/Debug/net9.0/InheritanceExample.pdb
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.AssemblyInfo.cs
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.dll
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/refint/InheritanceExample.dll
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.pdb
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/InheritanceExample.genruntimeconfig.cache
+/Users/macbook/Desktop/CS01/InheritanceExample/obj/Debug/net9.0/ref/InheritanceExample.dll

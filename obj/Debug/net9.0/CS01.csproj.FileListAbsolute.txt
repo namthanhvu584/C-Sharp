@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/CS01/bin/Debug/net9.0/CS01
+/Users/macbook/Desktop/CS01/bin/Debug/net9.0/CS01.deps.json
+/Users/macbook/Desktop/CS01/bin/Debug/net9.0/CS01.runtimeconfig.json
+/Users/macbook/Desktop/CS01/bin/Debug/net9.0/CS01.dll
+/Users/macbook/Desktop/CS01/bin/Debug/net9.0/CS01.pdb
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.AssemblyInfo.cs
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.dll
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/refint/CS01.dll
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.pdb
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/CS01.genruntimeconfig.cache
+/Users/macbook/Desktop/CS01/obj/Debug/net9.0/ref/CS01.dll
